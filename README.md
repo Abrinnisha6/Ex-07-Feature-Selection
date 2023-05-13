@@ -155,6 +155,15 @@ print ("R2     :",r2_score(y_test,target_predict))
 
 # OUTPUT :
 
+## data.tail() :
+
+![Screenshot 2023-05-13 113321](https://github.com/Abrinnisha6/Ex-07-Feature-Selection/assets/118889454/3a212853-0645-43f2-bec1-04bff2466371)
+
+## Null values :
+
+![Screenshot 2023-05-13 114024](https://github.com/Abrinnisha6/Ex-07-Feature-Selection/assets/118889454/d7c8cb0d-b35a-4831-b951-1feec255aef6)
+
+
 ## Describe :
 
 ![Screenshot 2023-05-13 110813](https://github.com/Abrinnisha6/Ex-07-Feature-Selection/assets/118889454/ac0e37f2-7c82-4319-9d9a-a7963275e735)
