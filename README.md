@@ -200,6 +200,8 @@ print ("R2     :",r2_score(y_test,target_predict))
 ## Report :
 
 ![Screenshot 2023-05-13 112908](https://github.com/Abrinnisha6/Ex-07-Feature-Selection/assets/118889454/f148b1ba-669b-4050-8a30-85d0db5383ea)
+
+
 ![Screenshot 2023-05-13 112914](https://github.com/Abrinnisha6/Ex-07-Feature-Selection/assets/118889454/9eb93996-4675-4619-813a-2c45869cbb76)
 
 
