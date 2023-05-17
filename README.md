@@ -161,8 +161,7 @@ print ("R2     :",r2_score(y_test,target_predict))
 
 ## Null values :
 
-![Screenshot 2023-05-13 114024](https://github.com/Abrinnisha6/Ex-07-Feature-Selection/assets/118889454/d7c8cb0d-b35a-4831-b951-1feec255aef6)
-
+![Screenshot 2023-05-17 231204](https://github.com/Abrinnisha6/Ex-07-Feature-Selection/assets/118889454/59089572-942c-445e-b909-c01aba4856be)
 
 ## Describe :
 
